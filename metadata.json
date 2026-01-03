@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 秘境搭子 (Secret Companion)",
+  "description": "AI-powered companion matching and emotional itinerary butler for Z-generation travelers, focusing on 'chill' aesthetics and stress-free social experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
